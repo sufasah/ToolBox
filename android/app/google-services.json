@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "405500564980",
+    "project_id": "mobilefinalhomework",
+    "storage_bucket": "mobilefinalhomework.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405500564980:android:0a94fed1c11e4d370255a1",
+        "android_client_info": {
+          "package_name": "com.example.mobilodev2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405500564980-tfkqe16dm2avpsm1a7jl13bhosf2q5o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpttMjPWatT00TCSfWIGC1UZrnGs0rfK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405500564980-tfkqe16dm2avpsm1a7jl13bhosf2q5o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
